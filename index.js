@@ -27,9 +27,16 @@ app.get('/', (req, res) => {
     res.send('Hello World!')
 })
 
+// Handling invalid routes
 app.get('*', (req, res) => {
   res.set('Content-Type', 'text/plain');
   res.status(404).send(JSON.stringify({message: 'Hamarino ny adiresy ampiasainao fa misy diso'}));
+})
+
+// Handling any other errors
+app.use((error, req, res, next) => {
+  res.status(error.status || 500);
+  res.send(JSON.stringify({message: error.message}))
 })
 
 app.listen(port, () => {

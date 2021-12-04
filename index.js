@@ -28,6 +28,7 @@ app.get('/', (req, res) => {
 })
 
 app.get('*', (req, res) => {
+  res.set('Content-Type', 'text/plain');
   res.status(404).send(JSON.stringify({message: 'Hamarino ny adiresy ampiasainao fa misy diso'}));
 })
 

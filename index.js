@@ -14,12 +14,14 @@ var corsOptionsDelegate = function (req, callback) {
 
 // Route import
 var swsPocketRoute = require('./sws-pocket/sws-pocket');
+var lmmoaRoute = require('./lmm-oa/lmm-oa');
 
 const app = express();
 
 app.disable('x-powered-by');
 app.use(cors(corsOptionsDelegate));
 app.use('/api/sws-pocket', swsPocketRoute)
+app.use('/api/lmm-oa', lmmoaRoute)
 
 const port = process.env.PORT || 8000;
 

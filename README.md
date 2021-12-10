@@ -16,7 +16,7 @@ Currently, here are the list of applications that we provide:
 
 ## Technology
 
-Web environment has been massively improved for the last few years. We would like to make the best of use of all these modern web technologies to deliver application that is fast, reliable and, more importantly, secure. All of these above applications are PWA capable.
+Web environment has been massively improving for the last few years. We would like to make the best of use of all these modern web technologies to deliver application that is fast, reliable and, more importantly, secure. All of these above applications are PWA capable.
 
 ## Supplemental tools
 

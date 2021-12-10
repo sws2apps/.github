@@ -1,10 +1,11 @@
-# Hi there 👋
+# TONGASOA 👋
 
 In late 2021, we have created Scheduling Workbox System (SWS) team. Our main goal is to provide an easy-to-use application for Jehovah’s Witnesses, wether they are appointed brothers, publishers and students for Midweek Meeting.
 
 ## About Us
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=sws2apps&count_private=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=sws2apps&count_private=true&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sws2apps)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Application list
@@ -34,4 +35,4 @@ To better accomplish our mission, we have created additional tools to assist us:
 
 ## Contribute
 
-Yes, all of our projects will be an open-source project that everyone can contribute.
+Yes, all of our projects will be an open-source project on GitHub that everyone can contribute. We are more than happy to open our ❤️ for those who want to willingly help us to accomplish our mission.

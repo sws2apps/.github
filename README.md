@@ -20,7 +20,7 @@ Web environment has been massively improved for the last few years. We would lik
 
 ## Supplemental tools
 
-To better accomplish our mission, we have created and maintained additional tools:
+To better accomplish our mission, we have created additional tools to assist us:
 
 | Tool           | Type    | Whats for |
 | -------------- | :-----: | --------- |

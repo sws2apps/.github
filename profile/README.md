@@ -18,7 +18,7 @@ Here are the list of applications that we currently provide. Please note however
 ### SWS VIP
 **Used by:** Appointed brothers: to handle various tasks that should be performed by brothers only according to their assignments
 
-### SWS Pocket
+### [SWS Pocket](https://github.com/sws2apps/sws-pocket)
 **Used by:** Publishers, Students: to view meeting schedule, and submit monthly field report
 
 ## Technology

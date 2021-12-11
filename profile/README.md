@@ -35,7 +35,7 @@ To better accomplish our mission, we have created additional tools to assist us:
 
 ### SWS API
 **Type:** backend  
-**Whats for:** A backend service that will handle some server actions that will be accross all the applications
+**Whats for:** A backend service that will handle some server actions that will be used accross all applications
 
 ## Contribute
 

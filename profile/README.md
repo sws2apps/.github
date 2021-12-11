@@ -4,7 +4,7 @@ In late 2021, we have created Scheduling Workbox System (SWS) team. Our main goa
 
 ## Application list
 
-Here are the list of applications that we currently provide. Please note however, that they are not yet publicly available at this time:
+Here are the list of applications that we currently provide. Some of them are not yet publicly available at this time. Also, please note that they are built primarily using Malagasy UI. We already have a plan to have the UI translated into another languages.
 
 ### Secretary Tools - Report Organizer (ST-RO)
 **Used by:** Secretary, to manage in a very efficient way the congregation reports

@@ -20,8 +20,6 @@ Here are the list of applications that we currently provide. Please note however
 
 ### SWS Pocket
 **Used by:** Publishers, Students: to view meeting schedule, and submit monthly field report
-#### Screenshots
-![SWS Login Page](https://github.com/sws2apps/.github/blob/cd9ede0458b30c2c983d795d15985e91f56cc269/profile/img/sws-pocket-login.png "SWS Pocket Login") ![SWS Home Page](https://github.com/sws2apps/.github/blob/cd9ede0458b30c2c983d795d15985e91f56cc269/profile/img/sws-pocket-home1.png "SWS Pocket Home") ![SWS Schedule Page](https://github.com/sws2apps/.github/blob/cd9ede0458b30c2c983d795d15985e91f56cc269/profile/img/sws-pocket-schedule.png "SWS Pocket Schedule")
 
 ## Technology
 

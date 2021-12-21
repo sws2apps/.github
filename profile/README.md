@@ -39,4 +39,4 @@ To better accomplish our mission, we have created additional tools to assist us:
 
 ## Contribute
 
-Yes, all of our projects will be an open-source project on GitHub that everyone can contribute. We are more than happy to open our ❤️ for those who want to willingly help us to accomplish our mission.
+Yes, all of our projects will be an open-source project on GitHub that everyone can contribute. We are more than happy to open our ❤️ for those who want to willingly help us.

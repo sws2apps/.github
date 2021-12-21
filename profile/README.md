@@ -1,6 +1,6 @@
 # TONGASOA 👋
 
-In late 2021, we have created Scheduling Workbox System (SWS) team. Our main goal is to provide an easy-to-use application for Jehovah’s Witnesses, wether they are appointed brothers, publishers and students for Midweek Meeting.
+We have been working on small utilities to assist with congregation meeting organization back in 2014. We have started from using Microsoft Excel, and Access and build our first Windows applications. However, in late 2021, we have decided to decomission all those previous applications and utilities, and adopt a new way of building application. Also, we have created Scheduling Workbox System (SWS) team. Our main goal is to provide an easy-to-use application for Jehovah’s Witnesses, wether they are appointed brothers, publishers and students for Midweek Meeting.
 
 ## Application list
 

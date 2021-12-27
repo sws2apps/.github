@@ -27,7 +27,7 @@ Web environment has been massively improving for the last few years. We would li
 
 ## Supplemental tools
 
-To better accomplish our mission, we have created additional tools to assist us:
+In addition, we have created additional tools to automate and help with some functions:
 
 ### [JW EPUB Parser](https://github.com/sws2apps/jw-epub-parser#readme)
 **Type:** module  

@@ -12,7 +12,7 @@ Here are the list of applications that we currently provide. Some of them are no
 ### Meeting Schedule Creator (MSC)  
 **Used by:** Coordinator of the Body of Elders: to create schedule for midweek and weekend meetings
 
-### Life and Ministry Meeting Overseer Assistant (LMM-OA)
+### [Life and Ministry Meeting Overseer Assistant (LMM-OA)](https://github.com/sws2apps/lmm-oa-sws)
 **Used by:** Life and Ministry Meeting Overseer: to create student assignments schedule for midweek meeting
 
 ### SWS VIP
@@ -33,7 +33,7 @@ To better accomplish our mission, we have created additional tools to assist us:
 **Type:** module  
 **Whats for:** To easily parse Meeting Workbook and Watchtower Study EPUB files from JW.ORG. This package is also availabe for general use, and can be downloaded from [npm](https://www.npmjs.com/package/jw-epub-parser)
 
-### SWS API
+### [SWS API](https://github.com/sws2apps/sws2apps-api)
 **Type:** backend  
 **Whats for:** A backend service that will handle some server actions that will be used accross all applications
 

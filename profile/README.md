@@ -1,6 +1,6 @@
 # TONGASOA 👋
 
-Our main goal is to provide an easy-to-use application for Jehovah’s Witnesses, wether they are appointed brothers, publishers and students for Midweek Meeting.
+Our main goal is to provide an easy-to-use application for Jehovah’s Witnesses, whether they are appointed brothers, publishers and students for Midweek Meeting.
 
 ## Application list
 

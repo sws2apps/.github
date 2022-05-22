@@ -29,6 +29,10 @@ Web has been massively improving for the last few years. We would like to make t
 
 In addition, we have created additional tools to automate and help with some functions:
 
+### [Firebase Deployment](https://github.com/sws2apps/firebase-deployment#readme)
+**Type:** GitHub Action  
+**Whats for:** A GitHub Action to deploy ReactJS application to Firebase. This package is also availabe for general use, and can be downloaded from [GitHub Marketplace](https://github.com/marketplace/actions/firebase-deployment)
+
 ### [JW EPUB Parser](https://github.com/sws2apps/jw-epub-parser#readme)
 **Type:** module  
 **Whats for:** To easily parse Meeting Workbook and Watchtower Study EPUB files from JW.ORG. This package is also availabe for general use, and can be downloaded from [npm](https://www.npmjs.com/package/jw-epub-parser)

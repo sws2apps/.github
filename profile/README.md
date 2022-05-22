@@ -33,6 +33,10 @@ In addition, we have created additional tools to automate and help with some fun
 **Type:** module  
 **Whats for:** To easily parse Meeting Workbook and Watchtower Study EPUB files from JW.ORG. This package is also availabe for general use, and can be downloaded from [npm](https://www.npmjs.com/package/jw-epub-parser)
 
+### [React Service Worker Helper](https://github.com/sws2apps/react-sw-helper#readme)
+**Type:** reactjs component  
+**Whats for:** A pure react component for managing service worker life cycle. This package is also availabe for general use, and can be downloaded from [npm](https://www.npmjs.com/package/@sws2apps/react-sw-helper)
+
 ### [SWS API](https://github.com/sws2apps/sws2apps-api)
 **Type:** backend  
 **Whats for:** A backend service that will handle some server actions that will be used accross all applications

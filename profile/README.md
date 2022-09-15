@@ -31,7 +31,11 @@ In addition, we have created additional tools to automate and help with some fun
 
 ### [Firebase Deployment](https://github.com/sws2apps/firebase-deployment#readme)
 **Type:** GitHub Action  
-**Whats for:** A GitHub Action to deploy ReactJS application to Firebase. This package is also availabe for general use, and can be downloaded from [GitHub Marketplace](https://github.com/marketplace/actions/firebase-deployment)
+**Whats for:** A GitHub Action to deploy website and function to Firebase. This package is also availabe for general use, and can be downloaded from [GitHub Marketplace](https://github.com/marketplace/actions/firebase-deployment)
+
+### [Render Deployment](https://github.com/sws2apps/render-deployment#readme)
+**Type:** GitHub Action  
+**Whats for:** A GitHub Action to manually trigger and track deployment in [Render](https://render.com). This package is also availabe for general use, and can be downloaded from [GitHub Marketplace](https://github.com/marketplace/actions/render-deployment)
 
 ### [JW EPUB Parser](https://github.com/sws2apps/jw-epub-parser#readme)
 **Type:** module  

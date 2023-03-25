@@ -4,22 +4,8 @@ Our main goal is to provide an easy-to-use application for Jehovah’s Witnesses
 
 ## Application list
 
-Here are the list of applications that we currently provide. Some of them are not yet publicly available at this time.
-
-### Secretary Tools - Report Organizer (ST-RO)
-**Used by:** Secretary, to manage in a very efficient way the congregation reports
-
-### Meeting Schedule Creator (MSC)  
-**Used by:** Coordinator of the Body of Elders: to create schedule for midweek and weekend meetings
-
-### [Life and Ministry Meeting Overseer Assistant (LMM-OA)](https://github.com/sws2apps/lmm-oa-sws)
-**Used by:** Life and Ministry Meeting Overseer: to create student assignments schedule for midweek meeting
-
-### SWS VIP
-**Used by:** Appointed brothers: to handle various tasks that should be performed by brothers only according to their assignments
-
-### [SWS Pocket](https://github.com/sws2apps/sws-pocket)
-**Used by:** Publishers, Students: to view meeting schedule, and submit monthly field report
+### [Congregation Program for Everyone (CPE)](https://github.com/sws2apps/cpe-sws)
+**Used by:** Everyone in the congregation may use this application, after its use has been approved.
 
 ## Technology
 

@@ -11,7 +11,7 @@ Our main goal is to provide an easy-to-use application for Jehovah’s Witnesses
 
 Web has been massively improving for the last few years. We would like to make the best of use of all these modern web technologies to build our applications. All of these above applications are PWA capable.
 
-## Supplemental tools
+## Supplementary tools
 
 In addition, we have created additional tools to automate and help with some functions:
 

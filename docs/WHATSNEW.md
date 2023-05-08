@@ -4,7 +4,7 @@ This document will explain the process for publishing What’s New content for a
 
 ## Source Text
 
-1. An administrator will create the what’s new content in the source translation. For each item, two text strings will be created. For example: `lmmo-20230215-01-title` and `lmmo-20230215-02-body`. These identifiers will be used to verify for which application the content will be delivered, and to know when the content was created.
+1. An administrator will create the what’s new content in the source translation. For each item, two text strings will be created. For example: `lmmo-20230215-01-title` and `lmmo-20230215-01-body`. These identifiers will be used to verify for which application the content will be delivered, and to know when the content was created.
 2. After both texts have been added, they will be available for all applicable applications within one hour. We hope that most of the needed translations can be achieved within that time frame.
 
 ## Translation

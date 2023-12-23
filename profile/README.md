@@ -4,7 +4,7 @@ Our main goal is to provide an easy-to-use application for Jehovah’s Witnesses
 
 ## Application list
 
-### [Congregation Program for Everyone (CPE)](https://github.com/sws2apps/cpe-sws)
+### [Organized](https://github.com/sws2apps/organized-app)
 **Used by:** Everyone in the congregation may use this application, after its use has been approved.
 
 ## Technology

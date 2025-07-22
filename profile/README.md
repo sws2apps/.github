@@ -1,4 +1,4 @@
-# TONGASOA 👋
+# TONGASOA | HELLO 👋
 
 We develop easy-to-use applications and tools for Jehovah’s Witnesses, whether they are appointed brothers, publishers or midweek meeting students.
 

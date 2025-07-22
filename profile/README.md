@@ -1,40 +1,41 @@
 # TONGASOA 👋
 
-Our main goal is to provide an easy-to-use application for Jehovah’s Witnesses, whether they are appointed brothers, publishers and students for Midweek Meeting.
+We develop easy-to-use applications and tools for Jehovah’s Witnesses, whether they are appointed brothers, publishers or midweek meeting students.
 
-## Application list
+## Application
 
 ### [Organized](https://github.com/sws2apps/organized-app)
-**Used by:** Everyone in the congregation may use this application, after its use has been approved.
+**What's for:** Simplify congregation life management – scheduling, reporting, viewing upcoming assignments and more.
+**Used by:** Everyone in the congregation: elders, ministerial servants, pioneers, midweek meeting students. Because of the elder-first approach, its use has been approved by elders.
 
 ## Technology
 
-Web has been massively improving for the last few years. We would like to make the best of use of all these modern web technologies to build our applications. All of these above applications are PWA capable.
+Web has been massively improving during the last few years. We would like to make the best of use of all these modern web technologies to build our applications. Our apps are PWA capable.
 
 ## Supplementary tools
 
-In addition, we have created additional tools to automate and help with some functions:
+In addition, we have created additional tools to automate and help with some features:
 
 ### [Firebase Deployment](https://github.com/sws2apps/firebase-deployment#readme)
 **Type:** GitHub Action  
-**Whats for:** A GitHub Action to deploy website and function to Firebase. This package is also availabe for general use, and can be downloaded from [GitHub Marketplace](https://github.com/marketplace/actions/firebase-deployment)
+**What's for:** A GitHub Action to deploy website and function to Firebase. This package is also availabe for general use, and can be downloaded from [GitHub Marketplace](https://github.com/marketplace/actions/firebase-deployment)
 
 ### [Render Deployment](https://github.com/sws2apps/render-deployment#readme)
 **Type:** GitHub Action  
-**Whats for:** A GitHub Action to manually trigger and track deployment in [Render](https://render.com). This package is also availabe for general use, and can be downloaded from [GitHub Marketplace](https://github.com/marketplace/actions/render-deployment)
+**What's for:** A GitHub Action to manually trigger and track deployment in [Render](https://render.com). This package is also availabe for general use, and can be downloaded from [GitHub Marketplace](https://github.com/marketplace/actions/render-deployment)
 
-### [JW EPUB Parser](https://github.com/sws2apps/jw-epub-parser#readme)
+### [Meeting Schedules Parser](https://github.com/sws2apps/meeting-schedules-parser#readme)
 **Type:** module  
-**Whats for:** To easily parse Meeting Workbook and Watchtower Study EPUB files from JW.ORG. This package is also availabe for general use, and can be downloaded from [npm](https://www.npmjs.com/package/jw-epub-parser)
+**What's for:** To easily parse Meeting Workbook and Watchtower Study EPUB files from JW.ORG. This package is also availabe for general use, and can be downloaded from [npm](https://www.npmjs.com/package/jw-epub-parser)
 
 ### [React Service Worker Helper](https://github.com/sws2apps/react-sw-helper#readme)
-**Type:** reactjs component  
-**Whats for:** A pure react component for managing service worker life cycle. This package is also availabe for general use, and can be downloaded from [npm](https://www.npmjs.com/package/@sws2apps/react-sw-helper)
+**Type:** React.js component  
+**What's for:** A pure react component for managing service worker life cycle. This package is also availabe for general use, and can be downloaded from [npm](https://www.npmjs.com/package/@sws2apps/react-sw-helper)
 
 ### [SWS API](https://github.com/sws2apps/sws2apps-api)
-**Type:** backend  
-**Whats for:** A backend service that will handle some server actions that will be used accross all applications
+**Type:** Backend  
+**What's for:** A backend service that handles some server actions that aee used accross our applications.
 
 ## Contribute
 
-Yes, all of our projects will be an open-source project on GitHub that everyone can contribute. We are more than happy to open our ❤️ for those who want to willingly help us.
+Yes, all of our projects are open-source on GitHub, making it easy to contribute. We are more than happy to open our hearts ❤️ for those who want to collaborate!

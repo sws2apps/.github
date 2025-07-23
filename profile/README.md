@@ -1,6 +1,6 @@
 # TONGASOA | HELLO 👋
 
-We develop easy-to-use applications and tools for Jehovah’s Witnesses, whether they are appointed brothers, publishers or midweek meeting students.
+We develop easy-to-use applications and tools for Jehovah’s Witnesses worldwide, whether they are appointed brothers, publishers or midweek meeting students. Our goal is to help our dear friends make their assignments and responsibilities easier, faster and better, while focusing on things that matter the most.
 
 ## Application
 

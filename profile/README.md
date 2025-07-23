@@ -26,7 +26,7 @@ In addition, we have created additional tools to automate and help with some fea
 
 ### [Meeting Schedules Parser](https://github.com/sws2apps/meeting-schedules-parser#readme)
 **Type:** module  
-**What's for:** To easily parse Meeting Workbook and Watchtower Study EPUB files from JW.ORG. This package is also availabe for general use, and can be downloaded from [npm](https://www.npmjs.com/package/jw-epub-parser)
+**What's for:** To easily parse Meeting Workbook and Watchtower Study EPUB files from JW.ORG. This package is also available for general use and can be downloaded from [npm](https://www.npmjs.com/package/meeting-schedules-parser)
 
 ### [React Service Worker Helper](https://github.com/sws2apps/react-sw-helper#readme)
 **Type:** React.js component  
